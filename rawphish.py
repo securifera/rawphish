@@ -1,9 +1,9 @@
 ######################################################
 # Description:	Simple SMTP script for sending email.
-# Author: 		b0yd@securifera
+# Author:       b0yd@securifera
 # License:      https://creativecommons.org/licenses/by/4.0/
-# Example:		rawphish.py -d 64.233.177.27 -r johndoe@gmail.com -m body.txt 
-#		         -s sender@phisher.com -j "Email Subject" -f phisher.com -a macro.xls
+# Example:      rawphish.py -d 64.233.177.27 -r johndoe@gmail.com -m body.txt 
+#                  -s sender@phisher.com -j "Email Subject" -f phisher.com -a macro.xls
 ######################################################
  
 import socket 
